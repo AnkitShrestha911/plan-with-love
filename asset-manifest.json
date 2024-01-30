@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.219f5fd4.css",
-    "main.js": "/static/js/main.74d260b3.js",
-    "index.html": "/index.html",
-    "main.219f5fd4.css.map": "/static/css/main.219f5fd4.css.map",
-    "main.74d260b3.js.map": "/static/js/main.74d260b3.js.map"
+    "main.css": "/plan-with-love/static/css/main.219f5fd4.css",
+    "main.js": "/plan-with-love/static/js/main.74d260b3.js",
+    "index.html": "/plan-with-love/index.html",
+    "main.219f5fd4.css.map": "/plan-with-love/static/css/main.219f5fd4.css.map",
+    "main.74d260b3.js.map": "/plan-with-love/static/js/main.74d260b3.js.map"
   },
   "entrypoints": [
     "static/css/main.219f5fd4.css",
